@@ -12,7 +12,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333333;
+  background-color: #054977;
 }
 
 ul li {
@@ -28,5 +28,10 @@ ul li a {
 }
 
 ul li a:hover {
-  background-color: #111111;
+  background-color: #054ebb;
+}
+
+
+ul li a.active {
+  background-color: #054ebb;
 }
